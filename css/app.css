@@ -1,0 +1,114 @@
+body {
+	background-color: #008CB8;
+}
+
+.telegramLogo {
+	float: left;
+	margin: 108px 0px 0px 92px;	
+}
+
+.block {
+	width: 380px;
+	height: 300px;
+	background-color: white;
+	float: right;
+
+}
+.row {
+	width: 300px;
+	margin: 56px auto;
+}
+
+.postmarkImg{
+	height: 45px;
+position: relative;
+left: 248px;
+}
+
+#getGoing{
+font-family: 'Open Sans', sans-serif;
+font-size: 22px;
+padding-bottom: 10px;
+}
+
+.container .row input{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	height: 13px;
+	border: 0px solid #EEEEEE;
+	border-bottom: thick solid #EEEEEE;
+	border-bottom-width: 1px;
+	width: 275px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.signUpDiv {
+ margin-top: 10px;
+}
+
+
+#signUpLinks {
+	margin-left: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+}
+
+#signUpLinks a {
+	text-decoration: none;
+	font-size: 13px;
+	color: #0084B2;
+}
+
+#logInButton{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	color: #0084B2;
+	font-weight: bold;
+	border: 1px solid #0084B2 ;
+	background-color: white;
+	border-radius: 1px;
+
+}
+.container {
+	width: 750px;
+	height: 300px;
+	background-color: white;
+	border: 1px solid #c4c4c4;
+	margin: 40px auto 0px auto;
+}
+
+/*.leftBlock {
+	width: 380px;
+	height: 300px;
+	border: 1px solid red;
+	display: inline-block;
+	position: relative;
+}
+
+.rightBlock {
+	width: 361px;
+	height: 300px;
+	border: 1px solid red;
+	display: inline-block;
+	position: relative;
+}*/
+
+/*.row {
+	width: 100px;
+}
+
+.telegramLogo {
+	float: left;
+	margin: 86px 0px 0px 100px;
+}
+
+.postmarkImg {
+	
+	height: 45px;
+}
+
+.getGoing {
+	font-size: 22px;
+	color: #000000;
+}*/
